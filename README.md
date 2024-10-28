@@ -7,7 +7,7 @@ Programming experience include C, C++, Oracle Pro*C, SQL, PL/SQL, Java and Pytho
 
 Corporate Experience: IBM(SAP Basis), Itelligence Consulting USA (SAP Basis), TCS(Oracle)
 
-Academic Degrees: MSc Professional ITBusiness and Digitalization (Oct 2023-Present), MS(Information Systems) - U of Cincinnati(2008), MS(Computer Science) - U of Cincinnati(2007)
+Academic Degrees: MSc Professional ITBusiness and Digitalization (Oct 2023-Present) - HTW Berlin, MS(Information Systems) - U of Cincinnati(2008), MS(Computer Science) - U of Cincinnati(2007)
 Masters Thesis : Finding Clusters in Spatial Data, 2007, U of Cincinnati, Cincinnati, OH, USA
 
 <!---
